@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Somesh Rawat</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<p><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="adam-pw" width="250" height="250" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somesh9870&label=Profile%20views&color=0e75b6&style=flat" alt="somesh9870" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somesh9870" alt="somesh9870" /></a> </p>
+
+<p><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="adam-pw" width="250" height="250" /></p>
+
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **someshrawat106@gmail.com**
