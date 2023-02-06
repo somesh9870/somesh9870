@@ -10,7 +10,8 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **someshrawat106@gmail.com**
+- 📫 How to reach me someshrawat106@gmail.com
+- 👨‍💻 All of my projects are available at https://somesh9870.github.io/
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 <br/>
