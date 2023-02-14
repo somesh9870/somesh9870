@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left"> 
-  	<a href="https://www.linkedin.com/in/ganesh-bahire-3a04871b1/">
+  	<a href="https://www.linkedin.com/in/somesh-rawat/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
         <a href="mailto:someshrawat106@gmail.com">
