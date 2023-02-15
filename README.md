@@ -24,7 +24,7 @@
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
-- 💬 Have a look at my [Portfolio](https://somesh9870.github.io/)
+- 💬 Have a look at my [Portfolio](https://somesh9870.github.io)
 
 <br/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somesh9870" alt="somesh9870" /></a> </p> -->
