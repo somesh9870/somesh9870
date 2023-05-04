@@ -76,7 +76,7 @@
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=somesh9870&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ganeshbahire01&theme=react-dark&hide_border=true"/></a>
 
 
 <br/>
