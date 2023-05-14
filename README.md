@@ -7,7 +7,7 @@
 <!-- </a> -->
       </p>
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="adam-pw" width="250" height="250" /></p>
+<p><img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0"></p>
 <p align="left"> <h3>Profile Views :-</h3><img src="https://komarev.com/ghpvc/?username=somesh9870&label=Profile%20views&color=0e75b6&style=flat" alt="somesh9870" /> </p>
 
 <br/>
